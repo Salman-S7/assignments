@@ -70,7 +70,7 @@ Create a `styles.css` file in the same directory as your HTML file. Complete the
 
 1. Universal Selector:
 
-   - Add a font family in universal selector.
+   - Add a font family ( Arial ) using universal selector.
 
 2. Type Selector:
 
@@ -90,10 +90,10 @@ Create a `styles.css` file in the same directory as your HTML file. Complete the
 5. Descendant Selector:
 
    - Change the color of `<span>` elements inside `<p>` elements to blue.
-   - Style `<li>` elements inside the `<nav>`.
+   - Style `<li>` elements inside the `list-div` class with different text color.
 
 6. Grouping Selector:
-   - Apply the same style (e.g., a specific font size) to `<h1>`, `<h2>`, and `<h3>` elements.
+   - Apply the same style (e.g., a specific font color, text-align) to `<h1>`, `<h2>`, and `<h3>` elements.
 
 ## Instructions
 
@@ -107,4 +107,3 @@ Create a `styles.css` file in the same directory as your HTML file. Complete the
    - `text-align`
    - `background-color`
    - `color`
-   - `width` and `height` (for images or boxes).
